@@ -1,0 +1,11 @@
+# Ignore files
+charging_scheduling_implementation.ipynb
+cities_worldwide_comparison.ipynb
+georeferenced_bhm_with_trip_chains.ipynb
+investment_decisions_implementation.ipynb
+
+# Ignore an entire folder with private data
+dados_matheus/
+pickle_files/
+redes_panda_power/
+
