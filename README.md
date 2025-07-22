@@ -4,7 +4,7 @@
 [![Conference](https://img.shields.io/badge/IEEE-PowerTech%202025-00629B.svg)](https://2025.ieee-powertech.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains the official source code and main results for the paper **"A Bayesian Hierarchical Model for Generating Synthetic Unbalanced Power Distribution Grids"**, presented at the IEEE PowerTech 2025 conference.
+This repository contains the official source code and main results for the paper **"A Probabilistic Multilayer Framework for Electric Vehicle User Behavior in Urban Areas"**, presented at the IEEE PowerTech 2025 conference.
 
 ---
 
